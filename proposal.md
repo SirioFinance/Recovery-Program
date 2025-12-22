@@ -185,6 +185,4 @@ If additional funds are recovered in the future after the Recovery Portal phase,
 
 Nysa will launch on Linea as a new, audited, and more secure lending protocol enhanced with AI agents, marking the long-term continuation of the project after the recovery process.
 
----
 
-**Desideri che io verifichi la correttezza della formula LaTeX o che esporti questo testo in un altro formato?**
